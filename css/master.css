@@ -1,0 +1,35 @@
+body {
+  background-color: pink;
+}
+section {
+  border-bottom: red 2px solid ;
+  min-height : 98vh;
+}
+
+
+.project-feature-container {
+  display :flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+figure {
+  margin-bottom : 1em;
+
+}
+.project-feature {
+  border: 2px solid red;
+  margin: 1em;
+  padding: 1em;
+  flex-basis: 320px;
+}
+
+.project-photo img {
+  width: 30%;
+  border: 2px solid red;
+    margin: 1em;
+    padding: 1em;
+    flex-basis: 320px;
+
+
+}
