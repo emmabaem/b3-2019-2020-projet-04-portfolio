@@ -5,11 +5,14 @@ body {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 5em;
   margin-bottom: 1em;
-  color:red;
+  color:blue;
 font-family: 'Gotu', sans-serif;
+min height:10em;
+text-align:center;
 }
+
 
 h2 {
   font-size: 2em;

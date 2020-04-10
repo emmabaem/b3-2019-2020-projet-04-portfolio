@@ -1,5 +1,5 @@
 body {
-  background-color: pink;
+  background-color: white;
 }
 section {
   border-bottom: red 2px solid ;
@@ -17,7 +17,7 @@ figure {
   margin-bottom : 1em;
 
 }
-.project-feature {
+.project-feature img{
   border: 3px solid red;
   margin: 1em;
   padding: 1em;
@@ -25,11 +25,15 @@ figure {
 }
 
 .project-photo img {
+
   width: 30%;
-  border: 2px solid red;
+
     margin: 1em;
     padding: 1em;
     flex-basis: 320px;
+
+
+
 
 
 }
